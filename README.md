@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Anwar Mohiuddin</h1>
-<h3 align="center">Computer Systems Engineer | Full-Stack Developer | React Native Specialist</h3>
+<h3 align="center">Computer Systems Engineer | Full-Stack Developer | React Native Developer</h3>
 
 <p align="center">
   <em>Building scalable web and mobile applications with modern technologies</em>
@@ -95,14 +95,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-anwar-mohiuddin&show_icons=true&theme=tokyonight&locale=en" alt="hamza-anwar-mohiuddin" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-anwar-mohiuddin&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hamza-anwar-mohiuddin" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-anwar-mohiuddin&theme=tokyonight" alt="hamza-anwar-mohiuddin" />
 </p>
 
@@ -113,9 +105,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/hamza-anwar-mohiuddin" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-anwar-mohiuddin" height="30" width="40" />
-  </a>
-  <a href="mailto:hamzaanwer2016@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
   </a>
 </p>
 
